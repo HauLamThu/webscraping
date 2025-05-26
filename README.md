@@ -1,4 +1,4 @@
-## Web Scraping Assignment
+# Web Scraping Assignment
 
 This is the final assignment for web scraping.  
 The goal is to extract historical stock prices from Yahoo Finance using Python.
